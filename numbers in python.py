@@ -1,0 +1,20 @@
+from math import *
+x=5**2
+y=pow(5,2)
+a=max(2,3,6,7,77)
+b=min(2,3,6,7,77)
+f=round(50.45)
+u=abs(-50)
+h=sqrt(45)
+i=ceil(3.8)
+o=floor(3.8)
+
+print(x)
+print(y)
+print(a)
+print(b)
+print(f)
+print(u)
+print(h)
+print(i)
+print(o)
